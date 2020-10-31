@@ -1,0 +1,27 @@
+@import './variables.css';
+@import './app.css';
+@import './now-playing.css';
+@import './toolbar.css';
+@import './list.css';
+@import './list-item.css';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: var(--c-background-primary);
+    color: var(--c-foreground-primary);
+    font-family: var(--f-root-font-family);
+    font-size: var(--d-root-font-size);
+    user-select: none
+}
+
+img {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+}

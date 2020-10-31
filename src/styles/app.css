@@ -1,0 +1,8 @@
+.app {
+    display: grid;
+    grid-template-areas: 'now-playing list'
+                            'toolbar list';
+    grid-template-rows: auto var(--d-toolbar-height);
+    grid-template-columns: var(--d-now-playing-width) auto;
+    height: 100vh;
+}

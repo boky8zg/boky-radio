@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Otvoreni",
+        "description": "Tvoj Feel Good Radio",
+        "logoUrl": "./assets/logos/otvoreni-radio.jpg",
+        "streamUrl": "http://proxima.shoutca.st:8357/stream"
+    },
+    {
+        "name": "Antena Zagreb",
+        "description": "Stvari koje voliš",
+        "logoUrl": "./assets/logos/antena-zagreb.jpg",
+        "streamUrl": "http://live.antenazagreb.hr:8000/;"
+    },
+    {
+        "name": "Yammat FM",
+        "description": "Sve što trebate čuti",
+        "logoUrl": "./assets/logos/yammat-fm.jpg",
+        "streamUrl": "https://streaming.radio.co/s5ad4b474a/listen;"
+    },
+    {
+        "name": "Radio 101",
+        "description": "My power station",
+        "logoUrl": "./assets/logos/radio-101.jpg",
+        "streamUrl": null
+    },
+    {
+        "name": "Enter Zagreb",
+        "description": "Samo hitovi",
+        "logoUrl": "./assets/logos/enter-zagreb.jpg",
+        "streamUrl": "http://live.enterzagreb.hr:8023/"
+    },
+    {
+        "name": "Narodni radio",
+        "description": "Radio koji te sluša",
+        "logoUrl": "./assets/logos/narodni-radio.jpg",
+        "streamUrl": "http://live.narodni.hr:8059/"
+    }
+]

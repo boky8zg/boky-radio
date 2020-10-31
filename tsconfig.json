@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "sourceMap": false,
+        "noImplicitAny": true,
+        "module": "ES6",
+        "moduleResolution": "node",
+        "target": "ES6",
+        "jsx": "react",
+        "jsxFactory": "h",
+        "jsxFragmentFactory": "Fragment",
+        "experimentalDecorators": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}

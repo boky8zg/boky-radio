@@ -1,0 +1,18 @@
+:root {
+    --c-foreground-primary: #fafafa;
+    --c-foreground-secondary: #626264;
+    --c-background-primary: #16171b;
+    --c-background-secondary: #1a1c20;
+    --c-background-active: #151619;
+
+    --d-root-font-size: 16px;
+    --d-now-playing-width: 400px;
+    --d-now-playing-image-size: 200px;
+    --d-toolbar-height: 100px;
+    --d-toolbar-btn-size: 60px;
+    --d-toolbar-btn-spacing: 40px;
+    --d-list-item-spacing: 20px;
+    --d-list-image-size: 80px;
+
+    --f-root-font-family: 'Lato', sans-serif;;
+}

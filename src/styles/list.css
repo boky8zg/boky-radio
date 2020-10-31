@@ -1,0 +1,6 @@
+.list {
+    grid-area: list;
+    background-color: var(--c-background-secondary);
+    overflow-y: auto;
+    padding: calc(var(--d-list-item-spacing) / 2) 0;
+}

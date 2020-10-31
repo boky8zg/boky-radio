@@ -1,0 +1,17 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "rules": {
+        "member-access": [true, "no-public"],
+        "no-any": true,
+        "no-empty-interface": true,
+        "quotemark": [true, "single", "jsx-double"],
+        "await-promise": true,
+        "curly": true,
+        "no-string-throw": true,
+        "typedef": [true, "call-signature", "parameter"],
+        "ordered-imports": true
+    }
+}
