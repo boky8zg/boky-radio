@@ -3,7 +3,7 @@
     "name": "FM Radio",
     "lang": "en",
     "description": "FM Radio by Boky",
-    "start_url": "/",
+    "start_url": "/boky-radio",
     "background_color": "#16171b",
     "theme_color": "#16171b",
     "dir": "ltr",
