@@ -3,13 +3,13 @@
         "name": "Otvoreni",
         "description": "Tvoj Feel Good Radio",
         "logoUrl": "./assets/logos/otvoreni-radio.jpg",
-        "streamUrl": "http://proxima.shoutca.st:8357/stream"
+        "streamUrl": "https://otrlive.radioca.st/streams/64kbps"
     },
     {
         "name": "Antena Zagreb",
         "description": "Stvari koje voliš",
         "logoUrl": "./assets/logos/antena-zagreb.jpg",
-        "streamUrl": "http://live.antenazagreb.hr:8000/;"
+        "streamUrl": "http://live.antenazagreb.hr:8000/stream/1/"
     },
     {
         "name": "Yammat FM",
