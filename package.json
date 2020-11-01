@@ -6,6 +6,7 @@
     "main": "index.tsx",
     "scripts": {
         "start": "webpack-dev-server --mode development --open",
+        "start:host": "webpack-dev-server --host 0.0.0.0 --port 80 --disableHostCheck true",
         "build": "webpack --mode production"
     },
     "keywords": ["fm", "radio"],
